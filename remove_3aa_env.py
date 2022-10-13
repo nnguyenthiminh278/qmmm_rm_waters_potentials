@@ -28,7 +28,7 @@ def read_idx():
     indexes = []
     with open("outputjunk", "r") as index_file:
         li = index_file.readlines()
-        indexes_0 = li[-3]                     # read the 3rd last line
+        indexes_0 = li[-5]                     # read the 5th from the last line
         num_list = indexes_0.split(' ')
         indexes = [int(x)+3 for x in num_list] # +3 since we need to include also the first 3 lines of the original pot file
         return indexes
