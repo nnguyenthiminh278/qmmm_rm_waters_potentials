@@ -1,0 +1,60 @@
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 8 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 9GB (56%)
+ERROR) -e must also specify a filename.
+Info) No CUDA accelerator devices available.
+Warning) Detected X11 'Composite' extension: if incorrect display occurs
+Warning) try disabling this X server option.  Most OpenGL drivers
+Warning) disable stereoscopic display when 'Composite' is enabled.
+Info) OpenGL renderer: Mesa DRI Intel(R) UHD Graphics (CML GT2)
+Info)   Features: STENCIL MSAA(4) MDE CVA MTX NPOT PP PS GLSL(OVFS) 
+Info)   Full GLSL rendering mode is available.
+Info)   Textures: 2-D (16384x16384), 3-D (512x512x512), Multitexture (8)
+Info) Dynamically loaded 2 plugins in directory:
+Info) /usr/local/lib/vmd/plugins/LINUXAMD64/molfile
+ERROR) Error opening file ./vmdStore/vmdStore.rc
+ERROR) couldn't open "./vmdStore/vmdStore.rc": no such file or directory
+couldn't open "./vmdStore/vmdStore.rc": no such file or directory
+ERROR) Error opening file /usr/local/lib/vmd/vmdStore/vmdStore.rc
+ERROR) couldn't open "/usr/local/lib/vmd/vmdStore/vmdStore.rc": no such file or directory
+couldn't open "/usr/local/lib/vmd/vmdStore/vmdStore.rc": no such file or directory
+ERROR) Error opening file /usr/local/lib/vmd//vmdStore/vmdStore.rc
+ERROR) couldn't open "/usr/local/lib/vmd//vmdStore/vmdStore.rc": no such file or directory
+couldn't open "/usr/local/lib/vmd//vmdStore/vmdStore.rc": no such file or directory
+ERROR) Error opening file /usr/local/lib/vmd/vmdStore/vmdStore.rc
+ERROR) couldn't open "/usr/local/lib/vmd/vmdStore/vmdStore.rc": no such file or directory
+couldn't open "/usr/local/lib/vmd/vmdStore/vmdStore.rc": no such file or directory
+/usr/local/lib/vmd/scripts/tcl8.5 /usr/local/lib/vmd/scripts /usr/local/lib/lib /Projects/johns/tcl/8.5.6/lib_LINUXAMD64/lib /usr/local/lib/vmd/scripts/tk8.5 /usr/local/lib/vmd/scripts/tk8.5/ttk /usr/local/lib/vmd/scripts/vmd /usr/local/lib/vmd/plugins/LINUXAMD64/tcl /usr/local/lib/vmd/plugins/noarch/tcl ./vmdStore
+The vmdStore package could not be loaded:
+
+/usr/local/lib/vmd/scripts/tcl8.5 /usr/local/lib/vmd/scripts /usr/local/lib/lib /Projects/johns/tcl/8.5.6/lib_LINUXAMD64/lib /usr/local/lib/vmd/scripts/tk8.5 /usr/local/lib/vmd/scripts/tk8.5/ttk /usr/local/lib/vmd/scripts/vmd /usr/local/lib/vmd/plugins/LINUXAMD64/tcl /usr/local/lib/vmd/plugins/noarch/tcl ./vmdStore ./vmdStore
+ERROR) Menu vmdStore already exists.
+The vmdStore package could not be loaded:
+Unable to add menu vmdStore
+
+Info) Using plugin xyz for structure file ./71_p8A_np7A.xyz
+Info) Using plugin xyz for coordinates from file ./71_p8A_np7A.xyz
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 3953
+Info)    Bonds: 2655
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1303
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1303   Protein: 0   Nucleic: 0
+0
+Info) Finished with coordinate file ./71_p8A_np7A.xyz.
+atomselect0
+133
+54 55 56 87 88 89 96 97 98 174 175 176 237 238 239 258 259 260 276 277 278 294 295 296 303 304 305 306 307 308 357 358 359 375 376 377 378 379 380 384 385 386 393 394 395 396 397 398 420 421 422 444 445 446 450 451 452 459 460 461 483 484 485 489 490 491 522 523 524 546 547 548 555 556 557 591 592 593 600 601 602 603 604 605 675 676 677 729 730 731 777 778 779 807 808 809 840 841 842 861 862 863 864 865 866 870 871 872 915 916 917 924 925 926 951 952 953 978 979 980 1017 1018 1019 1023 1024 1025 1026 1027 1028 1050 1051 1052 1056
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
